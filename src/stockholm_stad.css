@@ -168,6 +168,8 @@ nav.sthlm-primary.navbar-default .navbar-toggle.collapsed:focus {
     color: #fff;
 }
 nav.sthlm-primary.navbar-default .navbar-brand:hover,
+nav.sthlm-primary.navbar-default a:active,
+nav.sthlm-primary.navbar-default a:focus,
 nav.sthlm-primary.navbar-default .navbar-nav > :not(.active) > a:hover {
   background-color: #4d136d;
 }
@@ -197,6 +199,8 @@ nav.sthlm-info.navbar-default .navbar-toggle.collapsed:focus {
     color: #fff;
 }
 nav.sthlm-info.navbar-default .navbar-brand:hover,
+nav.sthlm-info.navbar-default a:active,
+nav.sthlm-info.navbar-default a:focus,
 nav.sthlm-info.navbar-default .navbar-nav > :not(.active) > a:hover {
   background-color: #005eaf;
 }
@@ -226,6 +230,8 @@ nav.sthlm-success.navbar-default .navbar-toggle.collapsed:focus {
     color: #fff;
 }
 nav.sthlm-success.navbar-default .navbar-brand:hover,
+nav.sthlm-success.navbar-default a:active,
+nav.sthlm-success.navbar-default a:focus,
 nav.sthlm-success.navbar-default .navbar-nav > :not(.active) > a:hover {
   background-color: #00766f;
 }
@@ -255,6 +261,8 @@ nav.sthlm-warning.navbar-default .navbar-toggle.collapsed:focus {
     color: #fff;
 }
 nav.sthlm-warning.navbar-default .navbar-brand:hover,
+nav.sthlm-warning.navbar-default a:active,
+nav.sthlm-warning.navbar-default a:focus,
 nav.sthlm-warning.navbar-default .navbar-nav > :not(.active) > a:hover {
   background-color: #cd3a1c;
 }
@@ -284,6 +292,8 @@ nav.sthlm-danger.navbar-default .navbar-toggle.collapsed:focus {
     color: #fff;
 }
 nav.sthlm-danger.navbar-default .navbar-brand:hover,
+nav.sthlm-danger.navbar-default a:active,
+nav.sthlm-danger.navbar-default a:focus,
 nav.sthlm-danger.navbar-default .navbar-nav > :not(.active) > a:hover {
   background-color: #b40054;
 }
