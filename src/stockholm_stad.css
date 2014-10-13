@@ -117,3 +117,199 @@ div.panel-danger.panel-sthlm > .panel-heading  {
 	color: #c40064;
 	border-bottom-color: #c40064;
 }
+.sthlm-gray-bg {
+	background-color: #f6f3ee;
+}
+.sthlm-footer-primary a,
+.sthlm-footer-info a,
+.sthlm-footer-success a,
+.sthlm-footer-warning a,
+.sthlm-footer-danger a {
+	color: #fff;
+}
+.sthlm-header {
+	height: 98px;
+	line-height: 98px;
+}
+#sthlm-logo div {
+	border-left: 1px solid #333;
+	position: absolute;
+	top: 20px; bottom: 20px;
+	margin-left: 38px;
+	display: inline-block;
+}
+#sthlm-logo h1 {
+	margin-left: 8px;
+}
+#sthlm-logo:hover {
+	text-decoration:none;
+}
+a#sthlm-logo {
+	position: relative;
+	display: block;
+}
+h1 {
+	font-size: 22px;
+	line-height: 26px;
+	font-weight: bold;
+	color: #444;
+	margin: 0 0 0 43px;
+}
+nav.navbar {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+/* Stockholm Primary navbar */
+nav.sthlm-primary,
+nav.sthlm-primary.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #5d237d;
+    color: #fff;
+}
+nav.sthlm-primary.navbar-default .navbar-brand:hover,
+nav.sthlm-primary.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #4d136d;
+}
+nav.sthlm-primary.navbar-default .navbar-brand,
+nav.sthlm-primary.navbar-default ul.navbar-nav li a {
+    color: #fff !important;
+}
+nav.sthlm-primary.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+nav.sthlm-primary.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #6d338d;
+}
+nav.sthlm-primary.navbar-default .navbar-header .navbar-toggle.collapsed,
+nav.sthlm-primary.navbar-default .navbar-toggle {
+    border-color: #3d035d;
+}
+nav.sthlm-primary.navbar-default .navbar-nav > .active > a,
+nav.sthlm-primary.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+nav.sthlm-primary.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #3d065d;
+}
+
+/* Stockholm Info navbar */
+nav.sthlm-info,
+nav.sthlm-info.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #006ebf;
+    color: #fff;
+}
+nav.sthlm-info.navbar-default .navbar-brand:hover,
+nav.sthlm-info.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #005eaf;
+}
+nav.sthlm-info.navbar-default .navbar-brand,
+nav.sthlm-info.navbar-default ul.navbar-nav li a {
+    color: #fff !important;
+}
+nav.sthlm-info.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+nav.sthlm-info.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #107ecf;
+}
+nav.sthlm-info.navbar-default .navbar-header .navbar-toggle.collapsed,
+nav.sthlm-info.navbar-default .navbar-toggle {
+    border-color: #004e9f;
+}
+nav.sthlm-info.navbar-default .navbar-nav > .active > a,
+nav.sthlm-info.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+nav.sthlm-info.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #004e9f;
+}
+
+/* Stockholm Success navbar */
+nav.sthlm-success,
+nav.sthlm-success.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #00867f;
+    color: #fff;
+}
+nav.sthlm-success.navbar-default .navbar-brand:hover,
+nav.sthlm-success.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #00766f;
+}
+nav.sthlm-success.navbar-default .navbar-brand,
+nav.sthlm-success.navbar-default ul.navbar-nav li a {
+    color: #fff !important;
+}
+nav.sthlm-success.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+nav.sthlm-success.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #00968f;
+}
+nav.sthlm-success.navbar-default .navbar-header .navbar-toggle.collapsed,
+nav.sthlm-success.navbar-default .navbar-toggle {
+    border-color: #00665f;
+}
+nav.sthlm-success.navbar-default .navbar-nav > .active > a,
+nav.sthlm-success.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+nav.sthlm-success.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #00665f;
+}
+
+/* Stockholm Warning navbar */
+nav.sthlm-warning,
+nav.sthlm-warning.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #dd4a2c;
+    color: #fff;
+}
+nav.sthlm-warning.navbar-default .navbar-brand:hover,
+nav.sthlm-warning.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #cd3a1c;
+}
+nav.sthlm-warning.navbar-default .navbar-brand,
+nav.sthlm-warning.navbar-default ul.navbar-nav li a {
+    color: #fff !important;
+}
+nav.sthlm-warning.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+nav.sthlm-warning.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #ed5a3c;
+}
+nav.sthlm-warning.navbar-default .navbar-header .navbar-toggle.collapsed,
+nav.sthlm-warning.navbar-default .navbar-toggle {
+    border-color: #bd2a0c;
+}
+nav.sthlm-warning.navbar-default .navbar-nav > .active > a,
+nav.sthlm-warning.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+nav.sthlm-warning.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #bd2a0c;
+}
+
+/* Stockholm Danger navbar */
+nav.sthlm-danger,
+nav.sthlm-danger.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #c40064;
+    color: #fff;
+}
+nav.sthlm-danger.navbar-default .navbar-brand:hover,
+nav.sthlm-danger.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #b40054;
+}
+nav.sthlm-danger.navbar-default .navbar-brand,
+nav.sthlm-danger.navbar-default ul.navbar-nav li a {
+    color: #fff !important;
+}
+nav.sthlm-danger.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+nav.sthlm-danger.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #d41074;
+}
+nav.sthlm-danger.navbar-default .navbar-header .navbar-toggle.collapsed,
+nav.sthlm-danger.navbar-default .navbar-toggle {
+    border-color: #a40044;
+}
+nav.sthlm-danger.navbar-default .navbar-nav > .active > a,
+nav.sthlm-danger.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+nav.sthlm-danger.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #a40044;
+}
+
+nav.sthlm-warning, nav.sthlm-success, nav.sthlm-danger, nav.sthlm-primary, nav.sthlm-info {
+	border: 0px;
+	border-radius: 0px;
+}
+.sthlm-footer {
+	border-top: 1px solid #E5E2DB;
+}

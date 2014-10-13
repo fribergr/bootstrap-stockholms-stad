@@ -19,7 +19,7 @@ For ordinary bootstrap functionality, just use the compiled CSS file instead of 
 
 ---
 
-The `stockholm_stad.css` file does contain some classes that may be used for footers, information boxes and Stockholms stad-flavoured panels.
+The `stockholm_stad.css` file does contain some classes that may be used for footers, information boxes, Stockholms stad-flavoured panels, navbars and helpclasses for structuring the logo in the page header.
 
 **The following classes has been added**
 
@@ -33,8 +33,12 @@ The `stockholm_stad.css` file does contain some classes that may be used for foo
 * sthlm-footer-warning-light
 * sthlm-footer-danger
 * sthlm-footer-danger-light
+* sthlm-primary
+* sthlm-success
+* sthlm-info
+* sthlm-warning
+* sthlm-danger
 * panel-sthlm
-
 
 **Example code for full screen footers**
 
@@ -67,3 +71,16 @@ The `stockholm_stad.css` file does contain some classes that may be used for foo
 	  Panel content
 	 </div>
 	</div>
+
+**Example code for navbar following primary color scheme**
+
+    <nav class="navbar navbar-default sthlm-primary" role="navigation">
+
+**Example code for header with logo and text**
+
+    <div class="sthlm-header">
+      <a id="sthlm-logo" href="#">
+        <img src="img/logo.png" alt="Home" />
+        <div><h1>Page header</h1></div>
+      </a>
+    </div>
