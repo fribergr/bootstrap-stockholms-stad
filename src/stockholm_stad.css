@@ -139,7 +139,11 @@ div.panel-danger.panel-sthlm > .panel-heading  {
 	display: inline-block;
 }
 #sthlm-logo h1 {
-	margin-left: 8px;
+	font-size: 22px;
+	line-height: 26px;
+	font-weight: bold;
+	color: #444;
+	margin: 0 0 0 8px;
 }
 #sthlm-logo:hover {
 	text-decoration:none;
@@ -147,13 +151,6 @@ div.panel-danger.panel-sthlm > .panel-heading  {
 a#sthlm-logo {
 	position: relative;
 	display: block;
-}
-h1 {
-	font-size: 22px;
-	line-height: 26px;
-	font-weight: bold;
-	color: #444;
-	margin: 0 0 0 43px;
 }
 nav.navbar {
 	margin-top: 0px;
