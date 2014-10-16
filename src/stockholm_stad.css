@@ -320,3 +320,15 @@ nav.sthlm-warning, nav.sthlm-success, nav.sthlm-danger, nav.sthlm-primary, nav.s
 .sthlm-footer {
 	border-top: 1px solid #E5E2DB;
 }
+div.sthlm-footer {
+	text-align: center;
+}
+div.sthlm-footer ul {
+	list-style: none;
+	list-style-image: none;
+	margin: 0;
+	padding: 0;
+}
+div.sthlm-footer ul li {
+	padding: 14px 0px 14px 0px;
+}
