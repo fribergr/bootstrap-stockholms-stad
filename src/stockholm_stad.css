@@ -356,3 +356,6 @@ div.modal-sthlm-danger div.modal-header { border-bottom: 5px solid #c40064; }
 div.modal-sthlm-danger div.modal-header h4.modal-title { color: #c40064; }
 div.modal-sthlm-danger-light div.modal-header { border-bottom: 5px solid #fedeed; }
 div.modal-sthlm-danger-light div.modal-header h4.modal-title { color: #fedeed; }
+
+div.sthlm-header h1 small { font-size: 85%; color: #000000; }
+div.sthlm-header h1 small:before { content: "\a"; white-space: pre; }
