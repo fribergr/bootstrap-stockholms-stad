@@ -39,6 +39,17 @@ The `stockholm_stad.css` file does contain some classes that may be used for foo
 * sthlm-warning
 * sthlm-danger
 * panel-sthlm
+* modal-sthlm-info
+* modal-sthlm-info-light
+* modal-sthlm-warning
+* modal-sthlm-warning-light
+* modal-sthlm-danger
+* modal-sthlm-danger-light
+* modal-sthlm-success
+* modal-sthlm-success-light
+* modal-sthlm-primary
+* modal-sthlm-primary-light
+
 
 **Example code for full screen footers**
 

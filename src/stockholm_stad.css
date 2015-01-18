@@ -332,3 +332,27 @@ div.sthlm-footer ul {
 div.sthlm-footer ul li {
 	padding: 14px 0px 14px 0px;
 }
+div.modal-sthlm-info div.modal-header { border-bottom: 5px solid #006ebf; }
+div.modal-sthlm-info div.modal-header h4.modal-title { color: #006ebf; }
+div.modal-sthlm-info-light div.modal-header { border-bottom: 5px solid #d6edfc; }
+div.modal-sthlm-info-light div.modal-header h4.modal-title { color: #d6edfc; }
+
+div.modal-sthlm-warning div.modal-header { border-bottom: 5px solid #dd4a2c; }
+div.modal-sthlm-warning div.modal-header h4.modal-title { color: #dd4a2c; }
+div.modal-sthlm-warning-light div.modal-header { border-bottom: 5px solid #ffd7d2; }
+div.modal-sthlm-warning-light div.modal-header h4.modal-title { color: #ffd7d2; }
+
+div.modal-sthlm-primary div.modal-header { border-bottom: 5px solid #5d237d; }
+div.modal-sthlm-primary div.modal-header h4.modal-title { color: #5d237d; }
+div.modal-sthlm-primary-light div.modal-header { border-bottom: 5px solid #f1e6fc; }
+div.modal-sthlm-primary-light div.modal-header h4.modal-title { color: #f1e6fc; }
+
+div.modal-sthlm-success div.modal-header { border-bottom: 5px solid #00867f; }
+div.modal-sthlm-success div.modal-header h4.modal-title { color: #00867f; }
+div.modal-sthlm-success-light div.modal-header { border-bottom: 5px solid #d5f7f4; }
+div.modal-sthlm-success-light div.modal-header h4.modal-title { color: #d5f7f4; }
+
+div.modal-sthlm-danger div.modal-header { border-bottom: 5px solid #c40064; }
+div.modal-sthlm-danger div.modal-header h4.modal-title { color: #c40064; }
+div.modal-sthlm-danger-light div.modal-header { border-bottom: 5px solid #fedeed; }
+div.modal-sthlm-danger-light div.modal-header h4.modal-title { color: #fedeed; }
