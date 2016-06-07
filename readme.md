@@ -12,6 +12,9 @@ Compilation
 * Add `@import "variables_sthlm.less";` to `bootstrap.less` (directly after `@import "variables.less";` (should be line 3)
 * Compile with: `lessc less/bootstrap.less > stockholm_stad_bs.css`
 
+Examples
+--------
+Visit [this page](http://fribergr.github.io/bootstrap-stockholm-stad.html) to see the examples. If something is missing, send a pull request or open an issue @ [this repository](https://github.com/fribergr/fribergr.github.io).
 
 Usage
 -----
