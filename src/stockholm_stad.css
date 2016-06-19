@@ -359,3 +359,10 @@ div.modal-sthlm-danger-light div.modal-header h4.modal-title { color: #fedeed; }
 
 div.sthlm-header h1 small { font-size: 85%; color: #000000; }
 div.sthlm-header h1 small:before { content: "\a"; white-space: pre; }
+nav.sthlm-danger.navbar-default ul.navbar-nav li ul li a,
+nav.sthlm-primary.navbar-default ul.navbar-nav li ul li a,
+nav.sthlm-info.navbar-default ul.navbar-nav li ul li a,
+nav.sthlm-success.navbar-default ul.navbar-nav li ul li a,
+nav.sthlm-warning.navbar-default ul.navbar-nav li ul li a {
+    color: #000 !important;
+}
